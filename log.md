@@ -3,9 +3,9 @@
 ## Week 1: Introduction: IPython: Beyond Normal Python
 **(delete me or comment me out)**
 
-**Today's Progress**: Finished going through Numpy and Pandas
+**Today's Progress**: Finished going through Ipython which was really interesting
 
-**Thoughts**: I really struggled through..., but I feel like I am slowly getting better at it
+**Thoughts**: I had issues updating my log hence the delay, i am still trying to figure out how to link to work or what that means as described below but i'm slowly getting the hang of it
 
 **Link to work**: [introduction(Ipython)](www.example.com)
 
